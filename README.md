@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h3 align="center">📚 SKILLS 📚</h3>
+<ul>
+  <li><img src="https://img.shields.io/badge/HTML5-#E34F26?style=flat&logo=HTML5&logoColor=white"/></li>
+  <li><img src="https://img.shields.io/badge/CSS-#1572B6?style=flat&logo=CSS3&logoColor=white"/></li>
+  <li><img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></li>
+  <li><img src="https://img.shields.io/badge/jQuery-#0769AD?style=flat&logo=jQuery&logoColor=white"/></li>
+</ul>
+
+<h3 align="center">📚 STUDYING 📚</h3>
+<ul>
+  <li><img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></li>
+  <li><img src="https://img.shields.io/badge/Sass-#CC6699?style=flat&logo=Sass&logoColor=white"/></li>
+  <li><img src="https://img.shields.io/badge/gulp-#CF4647?style=flat&logo=gulp&logoColor=white"/></li>
+</ul>
